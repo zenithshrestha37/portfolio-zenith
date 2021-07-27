@@ -38,7 +38,7 @@ User is allowed to make a single selection of input for each question. User is n
 - `npm start`
 
 
-- Or access app through the website: https://project-zenith.herokuapp.com/
+- Or access app through the website: https://portfolio-zenith.herokuapp.com/
 ---
 ```javascript
 const answerElements = document.querySelectorAll(".answer");
